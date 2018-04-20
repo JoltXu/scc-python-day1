@@ -1,4 +1,4 @@
-#test2 Mora game
+#test2 Mora game 猜拳游戏：0 - 拳头，1 - 剪刀，2 - 布；
 
 a = int(input("Please A enter 0-2: "))
 b = int(input("Please B enter 0-2: "))
